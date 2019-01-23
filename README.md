@@ -1,6 +1,3 @@
-# hello-world
-My first repository ever (in and out of git)
+# hello-git
 
-Hi, Martin here!
-
-I like bash, coffee and coffee shops!
+This is my first experience with GitHub.
