@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# VERSION 1.1
+
 # Variables
 hi="Hi, this is a test application/script that will be used in the continuous integration pipeline process, so it does nothing more than just an option selection."
 so="Please, select an option:"
